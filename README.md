@@ -10,3 +10,4 @@ Repository Assignment2
 * Checken biryani
 * Kunafa
 * Mandi
+Link for mystats<https://github.com/rehanmohammed/my2-Mohammed/blob/main/MyStats.md>
