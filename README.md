@@ -1,5 +1,12 @@
 ### my2-Mohammed
 Repository Assignment2
-# Rahan Moahmmed
+# Rahan Mohammed
 *** 
-Hello world programm 
+# Favorite Vactaion spot
+1. playing beach games such as beach volley ball
+2. Paragliding is the recreational and competitive adventure sport
+3. palying beach hockey
+### dishes at vaction spot
+* Checken biryani
+* Kunafa
+* Mandi
