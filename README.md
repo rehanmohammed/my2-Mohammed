@@ -26,4 +26,17 @@ The reason for why you recommend the different sports and how many hours do you 
 # Famous Quotes
 > "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe" by ***Albert Einstein***
 >> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple" ***Georg C. Lichtenberg***
+***
+## Code Fencing
 
+> **Stack Overflow Question:** [Display a User Gravatar from an Email Address](https://stackoverflow.com/questions/2718860/how-to-build-a-url-of-a-gravatar-image-from-a-given-email)
+
+Display the snippet from php-tricks using code fencing:
+
+```php
+<?php
+  $gravatar_link = 'http://www.gravatar.com/avatar/' . md5($comment_author_email) . '?s=32';
+   echo '<img src="' . $gravatar_link . '" />';
+?>
+```
+Snippet Source [Responsive Meta tag](https://css-tricks.com/snippets/php/display-a-user-gravatar-from-email-address/)
