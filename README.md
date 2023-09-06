@@ -22,3 +22,8 @@ The reason for why you recommend the different sports and how many hours do you 
 | Hockey | It is very good exercise for legs and arms | 3 hrs |
 | Baseball | It is very good exercise for arms | 8 hrs |
 
+***
+# Famous Quotes
+> "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe" by ***Albert Einstein***
+>> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple" ***Georg C. Lichtenberg***
+
