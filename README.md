@@ -11,3 +11,11 @@ Repository Assignment2
 * Kunafa
 * Mandi
 Link for mystats<https://github.com/rehanmohammed/my2-Mohammed/blob/main/MyStats.md>
+***
+| P | Q | P and Q |
+| --- | --- | --- |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
+
