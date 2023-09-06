@@ -10,7 +10,7 @@ Repository Assignment2
 * Checken biryani
 * Kunafa
 * Mandi
-[Link for mystats] (https://github.com/rehanmohammed/my2-Mohammed/blob/main/MyStats.md)
+[Link for mystats](https://github.com/rehanmohammed/my2-Mohammed/blob/main/MyStats.md)
 ***
 # Favorite Sports
 we have created a table below menationting the list of different sports.
